@@ -1,3 +1,2 @@
 ## Commit Explorer 🔎
-
 ---
