@@ -36,7 +36,7 @@ function UserSearch() {
     >
       <Input
         type="text"
-        placeholder="Enter the username"
+        placeholder="Enter a valid github username"
         onChange={handleChange}
         value={username}
         defaultValue={searchParams.get("username")?.toString()}

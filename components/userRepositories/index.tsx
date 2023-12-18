@@ -55,7 +55,7 @@ function UserRepositories() {
         </div>
 
         <h3 className="text-xl font-medium">Nothing Found!</h3>
-        <p className="text-sm ">
+        <p className="text-sm text-center">
           Start by searching a github user by their github username.
         </p>
       </section>
